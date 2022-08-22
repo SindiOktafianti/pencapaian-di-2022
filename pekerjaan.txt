@@ -1,0 +1,3 @@
+- membuat fungsi aritmatika 
+- membuat tuple
+- membuat data list
